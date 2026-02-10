@@ -30,3 +30,7 @@ Instalar dependencias:
 
 # Ejecutar la aplicación:
 streamlit run app.py
+
+# Alternativo
+Enlace de aplicacion web
+- https://deserti0n.streamlit.app/
