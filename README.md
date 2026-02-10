@@ -19,14 +19,14 @@ Este proyecto implementa un sistema de predicción de deserción estudiantil uti
 
 ## Ejecución
 Instalar dependencias:
-pip install streamlit
-pip install numpy
-pip install pandas
-pip install joblib
-pip install matplotlib
-pip install seaborn
-pip install scikit-learn
-pip install openpyxl
+- pip install streamlit
+- pip install numpy
+- pip install pandas
+- pip install joblib
+- pip install matplotlib
+- pip install seaborn
+- pip install scikit-learn
+- pip install openpyxl
 
 # Ejecutar la aplicación:
 streamlit run app.py
